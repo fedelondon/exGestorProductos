@@ -20,7 +20,7 @@ Aplicacion de escritorio para gestionar productos y categorias, construida con P
 
 ```bash
 # Clonar el repositorio
-git clone <url-del-repositorio>
+git clone https://github.com/fedelondon/exGestorProductos/tree/main
 cd exGestorProductos
 
 # Crear entorno virtual
